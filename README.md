@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Alon 👋
 
-<!--
-**alonr619/alonr619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer, math contest enthusiast, pianist, and drummer
 
-Here are some ideas to get you started:
+- 😄 Pronouns: he/him/his
+- 
+- 🔭 I’m currently working on 
+- 📲 Languages: Python, JavaScript, Svelte/SvelteKit, React/NextJS, Java, PHP
+- 🏆 Proudest project: [Mustang Math COMPOSE](https://github.com/MustangMath-Tournament/Problem-Writing-Platform)
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: make an issue in [this](https://github.com/alonr619/alonr619) repo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Noteable Projects: [Mustang Math website](https://github.com/alonr619/MMT-Website), [Recursive Dragon website and payment platform](https://recursivedragon.com), [LichenProject website](https://lichenproject.org), [PathCheck website](https://pathcheck.org)
