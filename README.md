@@ -3,7 +3,6 @@
 I'm a programmer, math contest enthusiast, pianist, and drummer
 
 - 😄 Pronouns: he/him/his
-- 
 - 🔭 I’m currently working on 
 - 📲 Languages: Python, JavaScript, Svelte/SvelteKit, React/NextJS, Java, PHP
 - 🏆 Proudest project: [Mustang Math COMPOSE](https://github.com/MustangMath-Tournament/Problem-Writing-Platform)
