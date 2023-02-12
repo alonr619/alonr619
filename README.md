@@ -9,4 +9,4 @@ I'm a programmer, math contest enthusiast, pianist, and drummer
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: make an issue in [this](https://github.com/alonr619/alonr619) repo!
 
-Noteable Projects: [Mustang Math website](https://github.com/alonr619/MMT-Website), [Recursive Dragon website and payment platform](https://recursivedragon.com), [LichenProject website](https://lichenproject.org), [PathCheck website](https://pathcheck.org)
+Noteable Projects: [Mustang Math website](https://github.com/alonr619/MMT-Website) | [Recursive Dragon website and payment platform](https://recursivedragon.com) | [LichenProject website](https://lichenproject.org) | [PathCheck website](https://pathcheck.org)
